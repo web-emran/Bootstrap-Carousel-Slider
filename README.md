@@ -5,3 +5,7 @@ The Carousel is a slideshow for cycling through elements. ... of all carousel op
 
 Click [Here](https://codepen.io/emrankhan016/full/eWwLbw) to see demo and edit view.
 
+Feel free to create an issue if you find any bug. You can also contribute if you want to. :)
+
+
+
