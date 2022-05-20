@@ -1,4 +1,5 @@
 # Bootstrap Carousel Slider
+![Image alt text](https://i.ibb.co/prGRGPv/demo.png) 
 
 The Carousel is a slideshow for cycling through elements. ... of all carousel options, methods and events, go to our Bootstrap JS Carousel Reference.
 
